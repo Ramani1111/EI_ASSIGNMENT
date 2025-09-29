@@ -1,4 +1,4 @@
-Ex1 - Design Patterns Examples (plain Java, no Maven)
+Ex1 - Design Patterns Examples 
 Contains six small examples demonstrating:
 - Observer (behavioral)
 - Strategy (behavioral)
